@@ -1,0 +1,13 @@
+{"id":"wf-001","request":"Build this feature properly from start to finish and make sure we do not leave testing to the end.","expected_skill":"openclaw-dev-workflow","category":"workflow","notes":"Broad end-to-end implementation request with process emphasis."}
+{"id":"wf-002","request":"Before we code anything, help me define exactly what this feature should do.","expected_skill":"spec-for-openclaw","category":"workflow","notes":"Scope and acceptance criteria should be clarified before implementation."}
+{"id":"wf-003","request":"Turn this feature idea into a clear implementation target with constraints and non-goals.","expected_skill":"spec-for-openclaw","category":"workflow","notes":"Specification-oriented request."}
+{"id":"wf-004","request":"Break this refactor into steps we can execute one by one.","expected_skill":"plan-for-openclaw","category":"workflow","notes":"Explicit task breakdown request."}
+{"id":"wf-005","request":"Make me a plan for how to implement this safely across multiple files.","expected_skill":"plan-for-openclaw","category":"workflow","notes":"Planning request for multi-file work."}
+{"id":"wf-006","request":"Implement this one part first and keep the diff tight.","expected_skill":"build-for-openclaw","category":"workflow","notes":"Narrow implementation request focused on small slices."}
+{"id":"wf-007","request":"Patch this without rewriting half the system.","expected_skill":"build-for-openclaw","category":"workflow","notes":"Implementation with explicit narrow-scope constraint."}
+{"id":"wf-008","request":"What is the minimum proof we need before we merge this?","expected_skill":"test-for-openclaw","category":"workflow","notes":"Evidence selection request."}
+{"id":"wf-009","request":"What tests should we add so this bug fix is actually proven?","expected_skill":"test-for-openclaw","category":"workflow","notes":"Testing and proof request."}
+{"id":"wf-010","request":"Review this PR like a strict engineer and tell me what is risky.","expected_skill":"review-for-openclaw","category":"workflow","notes":"Explicit review request with risk focus."}
+{"id":"wf-011","request":"Audit this implementation for regressions and weak assumptions.","expected_skill":"review-for-openclaw","category":"workflow","notes":"Critical review request."}
+{"id":"wf-012","request":"Wrap this up cleanly and do the final pass before release.","expected_skill":"ship-for-openclaw","category":"workflow","notes":"Closeout and release-readiness request."}
+{"id":"wf-013","request":"Are we ready to ship this change or are there still loose ends?","expected_skill":"ship-for-openclaw","category":"workflow","notes":"Shipping and handoff readiness request."}

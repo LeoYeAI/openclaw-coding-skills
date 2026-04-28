@@ -1,0 +1,2 @@
+{"task_label":"live-001","request":"<paste the real user request here>","first_expected_skill":"openclaw-dev-workflow","first_actual_skill":null,"first_trigger_correct":null,"second_skill_needed":null,"second_skill":null,"ambiguity_observed":null,"failure_reason":null,"revision_note":null}
+{"task_label":"live-002","request":"<paste the real user request here>","first_expected_skill":"deploy-for-openclaw","first_actual_skill":null,"first_trigger_correct":null,"second_skill_needed":null,"second_skill":null,"ambiguity_observed":null,"failure_reason":null,"revision_note":null}

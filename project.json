@@ -1,0 +1,36 @@
+{
+  "name": "openclaw-coding-skills",
+  "title": "OpenClaw Coding Skills",
+  "version": "0.2.0",
+  "description": "Production-grade coding workflow and specialist skills for OpenClaw agents.",
+  "visibility": "public",
+  "focus": [
+    "specification",
+    "planning",
+    "incremental implementation",
+    "verification",
+    "review",
+    "release discipline",
+    "debugging",
+    "security",
+    "frontend engineering",
+    "documentation",
+    "deployment",
+    "refactoring"
+  ],
+  "skills": [
+    "openclaw-dev-workflow",
+    "spec-for-openclaw",
+    "plan-for-openclaw",
+    "build-for-openclaw",
+    "test-for-openclaw",
+    "review-for-openclaw",
+    "ship-for-openclaw",
+    "debug-for-openclaw",
+    "security-for-openclaw",
+    "frontend-for-openclaw",
+    "docs-for-openclaw",
+    "deploy-for-openclaw",
+    "refactor-for-openclaw"
+  ]
+}

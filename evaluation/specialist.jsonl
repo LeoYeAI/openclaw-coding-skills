@@ -1,0 +1,12 @@
+{"id":"sp-001","request":"This test started failing and I do not know why.","expected_skill":"debug-for-openclaw","category":"specialist","notes":"Direct debugging request."}
+{"id":"sp-002","request":"The build broke after my last change and the logs are not enough.","expected_skill":"debug-for-openclaw","category":"specialist","notes":"Failure localization request."}
+{"id":"sp-003","request":"Review this auth flow for security issues before we ship it.","expected_skill":"security-for-openclaw","category":"specialist","notes":"Security review request."}
+{"id":"sp-004","request":"This code handles user input, file access, and tokens. Check the trust boundaries.","expected_skill":"security-for-openclaw","category":"specialist","notes":"Boundary-expansion and secret-handling request."}
+{"id":"sp-005","request":"Build this settings screen and make sure it still works on mobile.","expected_skill":"frontend-for-openclaw","category":"specialist","notes":"UI implementation plus responsive verification."}
+{"id":"sp-006","request":"This browser interaction is broken. Fix the flow without redesigning everything.","expected_skill":"frontend-for-openclaw","category":"specialist","notes":"UI flow repair request."}
+{"id":"sp-007","request":"Update the docs so they match the new setup process.","expected_skill":"docs-for-openclaw","category":"specialist","notes":"Documentation maintenance request."}
+{"id":"sp-008","request":"Write down this architecture decision so future agents stop re-learning it.","expected_skill":"docs-for-openclaw","category":"specialist","notes":"Durable context capture request."}
+{"id":"sp-009","request":"Prepare this config change for production and tell me the rollback plan.","expected_skill":"deploy-for-openclaw","category":"specialist","notes":"Deployment safety request."}
+{"id":"sp-010","request":"We need to ship this runtime wiring change safely.","expected_skill":"deploy-for-openclaw","category":"specialist","notes":"Runtime deployment risk request."}
+{"id":"sp-011","request":"Clean this module up without changing behavior.","expected_skill":"refactor-for-openclaw","category":"specialist","notes":"Behavior-preserving cleanup request."}
+{"id":"sp-012","request":"Reduce duplication here and keep the public interfaces stable.","expected_skill":"refactor-for-openclaw","category":"specialist","notes":"Refactor request with stable interface constraint."}
