@@ -9,6 +9,8 @@
 
 **别再指望 Agent “刚好能行”。把可靠的 coding 行为变成默认。**
 
+[English](./README.md) · [Deutsch](./README.de.md)
+
 ---
 
 ### 一览
