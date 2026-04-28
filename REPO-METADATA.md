@@ -2,7 +2,7 @@
 
 ## Suggested GitHub Repository Description
 
-Production-grade coding workflow and tuning skills for OpenClaw agents, part of the MyClaw.ai ecosystem.
+Production-grade coding workflow, execution scaffolding, and tuning skills for OpenClaw agents, part of the MyClaw.ai ecosystem.
 
 ## Suggested Homepage
 
@@ -24,4 +24,4 @@ https://myclaw.ai
 
 ## Short Public Positioning
 
-A structured coding behavior layer for OpenClaw and the MyClaw.ai ecosystem: workflow skills, specialist skills, trigger tuning, evaluation datasets, and execution references for safer, more reliable coding sessions.
+A structured coding behavior system for OpenClaw and the MyClaw.ai ecosystem: workflow skills, specialist skills, execution references, trigger tuning, evaluation datasets, and live validation assets for safer, more reliable coding sessions.

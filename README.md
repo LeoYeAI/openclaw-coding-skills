@@ -1,26 +1,32 @@
 # OpenClaw Coding Skills
 
+**Stop hoping the agent gets it right. Start making reliable coding behavior the default.**
+
 [中文说明](./README.zh-CN.md)
 
 Production-grade coding skills for OpenClaw agents.
 
-Part of the MyClaw.ai ecosystem: a growing set of open assets that help teams get more reliable output from agent-driven coding and software development.
+Part of the MyClaw.ai ecosystem: a growing set of open assets designed to turn raw agent capability into dependable software execution.
 
-This project provides a structured execution system for software development inside OpenClaw workspaces. It is designed to improve consistency, verification discipline, task breakdown, and release safety across feature work, bug fixing, refactoring, review, and shipping.
+This project gives OpenClaw a structured coding behavior layer for real development work. It helps agents scope tasks more clearly, execute in smaller and safer slices, verify more rigorously, and close work with stronger engineering discipline across feature work, bug fixing, refactoring, review, and shipping.
 
 ## What This Project Is
 
-OpenClaw agents are powerful, but raw capability alone does not guarantee strong engineering outcomes. This repository encodes reusable workflows so coding sessions follow a higher bar by default.
+OpenClaw agents are powerful, but raw capability alone does not reliably produce high-quality coding behavior. Good coding outcomes depend on repeatable habits: better scoping, better sequencing, better verification, and stronger closeout discipline.
 
-Within the MyClaw.ai ecosystem, this repository plays the role of a coding behavior layer: it helps turn raw agent capability into more disciplined execution, stronger verification habits, and a tunable workflow system that teams can improve over time.
+This repository provides that missing layer.
 
-The project is built around a simple idea:
+Within the MyClaw.ai ecosystem, it serves as a coding behavior system for OpenClaw: reusable workflow skills, specialist skills, execution references, trigger guidance, and evaluation assets that help teams move from "the model can code" to "the agent can execute software work with discipline."
 
-- define work clearly
-- break it into small slices
-- implement with evidence
-- verify before claiming success
-- close with clean diffs and scoped commits
+The core logic is straightforward:
+
+- raw model capability is not enough
+- behavior quality is shaped at decision points
+- skills improve those decision points
+- references reduce guesswork during execution
+- evaluation and live validation make the system tunable over time
+
+The result is not a smarter base model. The result is a more reliable coding agent.
 
 ## Skill Set
 
@@ -53,19 +59,30 @@ Support materials live under `references/` inside each skill when needed. These 
 - Keep skills modular so teams can adopt one or the whole set
 - Stay tool-agnostic at the skill layer while remaining OpenClaw-native in execution guidance
 
-## Why This Improves Coding Performance
+## Why This Matters
 
-These skills do not change the base model itself. They improve coding performance by changing agent behavior at the right decision points.
+Most agent failures in software work do not come from lack of raw intelligence. They come from weak execution habits.
 
-They are designed to make an OpenClaw agent:
+Agents fail because they:
+
+- start coding before the task is scoped clearly
+- make large changes without controlling blast radius
+- declare success on weak evidence
+- blur boundaries between implementation, testing, review, and deployment
+- handle high-risk tasks with too little structure
+
+This repository is designed to reduce exactly those failures.
+
+It helps an OpenClaw agent:
 
 - choose better task boundaries before editing
-- verify more often and with more appropriate evidence
+- move in smaller, more defensible slices
+- verify with stronger evidence before claiming completion
 - debug by reducing uncertainty instead of stacking guesses
-- review changes with stronger finding structure
+- review changes with clearer risk articulation
 - handle refactors and deployments with less silent risk
 
-The practical effect is not "smarter model weights". The practical effect is more reliable engineering behavior.
+The value is not theoretical. The value is a higher-quality default execution pattern for real coding sessions.
 
 ## Repository Layout
 
@@ -124,4 +141,6 @@ Recommended adoption order:
 
 ## Philosophy
 
-Good engineering discipline should not depend on whether the current agent session happens to be careful. These skills make rigor more repeatable.
+Good engineering discipline should not depend on whether the current agent session happens to be careful.
+
+The best human engineers are not the ones who occasionally write great code. They are the ones whose worst day still meets a high bar. These skills exist to give OpenClaw agents that same property: a reliable floor, not just a high ceiling.
