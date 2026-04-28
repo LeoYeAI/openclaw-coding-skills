@@ -1,12 +1,54 @@
 # OpenClaw Coding Skills
 
+[![Skills](https://img.shields.io/badge/skills-13-blue?style=for-the-badge)](./skills/INDEX.md)
+[![References](https://img.shields.io/badge/execution_references-21-green?style=for-the-badge)](./skills/)
+[![Eval Samples](https://img.shields.io/badge/eval_samples-39-orange?style=for-the-badge)](./evaluation/)
+[![Trigger Rules](https://img.shields.io/badge/trigger_matrix-131_rules-purple?style=for-the-badge)](./skills/TRIGGER-MATRIX.md)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge)](./LICENSE)
+[![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-ff6b35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://myclaw.ai)
+
 **Stop hoping the agent gets it right. Start making reliable coding behavior the default.**
 
 [中文说明](./README.zh-CN.md)
 
+---
+
+### At a Glance
+
+| Layer | What It Contains | Count |
+|-------|-----------------|-------|
+| **Workflow Skills** | `spec` → `plan` → `build` → `test` → `review` → `ship` | 7 |
+| **Specialist Skills** | `debug` · `security` · `frontend` · `docs` · `deploy` · `refactor` | 6 |
+| **Execution References** | Reusable decision scaffolding inside high-risk skills | 21 files |
+| **Trigger Matrix** | Request-to-skill mapping with boundary guidance | 131 rules |
+| **Evaluation Assets** | Labeled samples, ambiguity cases, dry-run & live validation | 39 samples across 6 datasets |
+| **Tuning Infrastructure** | Playbook, result schema, feedback loop, tuning log templates | Full closed-loop |
+
+> **70+ files · 13 skills · 21 execution references · 39 eval samples · 131 trigger rules**
+
+---
+
 Production-grade coding skills for OpenClaw agents.
 
-Part of the MyClaw.ai ecosystem: a growing set of open assets designed to turn raw agent capability into dependable software execution.
+Part of the [MyClaw.ai](https://myclaw.ai) ecosystem: a growing set of open assets designed to turn raw agent capability into dependable software execution.
+
+## About MyClaw.ai
+
+[MyClaw.ai](https://myclaw.ai) is an AI personal assistant platform that gives every user a full server running [OpenClaw](https://github.com/openclaw/openclaw) — the leading open-source AI agent framework. Each MyClaw instance comes with complete code control, networking, tool access, and the ability to install skills like this one.
+
+Within the MyClaw.ai ecosystem, this repository serves as the **coding behavior layer**: it bridges the gap between "the model can write code" and "the agent can execute software work with discipline." MyClaw users can install these skills directly into their instance to immediately improve coding session quality.
+
+The MyClaw.ai open ecosystem includes:
+
+- **[openclaw-coding-skills](https://github.com/LeoYeAI/openclaw-coding-skills)** — structured coding behavior system (this repo)
+- **[openclaw-guardian](https://github.com/LeoYeAI/openclaw-guardian)** — security monitoring and protection
+- **[openclaw-auto-dream](https://github.com/LeoYeAI/openclaw-auto-dream)** — cognitive memory consolidation
+- **[myclaw-backup](https://github.com/LeoYeAI/myclaw-backup)** — full instance backup and restore
+- **[myclaw-bench](https://github.com/LeoYeAI/myclaw-bench)** — agent capability benchmarking
+
+All open-source. All designed to make AI agents more capable, more reliable, and more useful in real work.
+
+---
 
 This project gives OpenClaw a structured coding behavior layer for real development work. It helps agents scope tasks more clearly, execute in smaller and safer slices, verify more rigorously, and close work with stronger engineering discipline across feature work, bug fixing, refactoring, review, and shipping.
 
