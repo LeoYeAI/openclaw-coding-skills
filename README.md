@@ -9,7 +9,7 @@
 
 **Stop hoping the agent gets it right. Start making reliable coding behavior the default.**
 
-[中文说明](./README.zh-CN.md) · [Deutsch](./README.de.md)
+[中文](./README.zh-CN.md) · [Deutsch](./README.de.md) · [Français](./README.fr.md) · [Español](./README.es.md) · [Italiano](./README.it.md) · [日本語](./README.ja.md) · [Русский](./README.ru.md)
 
 ---
 

@@ -9,7 +9,7 @@
 
 **Hör auf zu hoffen, dass der Agent es richtig macht. Mach zuverlässiges Coding-Verhalten zum Standard.**
 
-[English](./README.md) · [中文](./README.zh-CN.md) · [Deutsch](./README.de.md)
+[English](./README.md) · [中文](./README.zh-CN.md) · [Français](./README.fr.md) · [Español](./README.es.md) · [Italiano](./README.it.md) · [日本語](./README.ja.md) · [Русский](./README.ru.md)
 
 ---
 

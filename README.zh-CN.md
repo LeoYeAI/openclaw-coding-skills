@@ -9,7 +9,7 @@
 
 **别再指望 Agent “刚好能行”。把可靠的 coding 行为变成默认。**
 
-[English](./README.md) · [Deutsch](./README.de.md)
+[English](./README.md) · [Deutsch](./README.de.md) · [Français](./README.fr.md) · [Español](./README.es.md) · [Italiano](./README.it.md) · [日本語](./README.ja.md) · [Русский](./README.ru.md)
 
 ---
 
