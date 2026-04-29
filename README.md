@@ -1,15 +1,26 @@
-# OpenClaw Coding Skills
+<h1 align="center">🛠️ OpenClaw Coding Skills
+</h1>
 
-[![Skills](https://img.shields.io/badge/skills-13-blue?style=for-the-badge)](./skills/INDEX.md)
-[![References](https://img.shields.io/badge/execution_references-21-green?style=for-the-badge)](./skills/)
-[![Eval Samples](https://img.shields.io/badge/eval_samples-39-orange?style=for-the-badge)](./evaluation/)
-[![Trigger Rules](https://img.shields.io/badge/trigger_matrix-131_rules-purple?style=for-the-badge)](./skills/TRIGGER-MATRIX.md)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge)](./LICENSE)
-[![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-ff6b35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://myclaw.ai)
+<p align="center">
+<a href="./skills/INDEX.md"><img src="https://img.shields.io/badge/skills-13-blue?style=for-the-badge" alt="Skills"></a>
+<a href="./skills/"><img src="https://img.shields.io/badge/execution_references-21-green?style=for-the-badge" alt="References"></a>
+<a href="./evaluation/"><img src="https://img.shields.io/badge/eval_samples-39-orange?style=for-the-badge" alt="Eval Samples"></a>
+<a href="./skills/TRIGGER-MATRIX.md"><img src="https://img.shields.io/badge/trigger_matrix-131_rules-purple?style=for-the-badge" alt="Trigger Rules"></a>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge" alt="License"></a>
+<a href="https://myclaw.ai"><img src="https://img.shields.io/badge/Powered%20by-MyClaw.ai-ff6b35?style=for-the-badge" alt="Powered by MyClaw.ai"></a>
+</p>
 
-**Stop hoping the agent gets it right. Start making reliable coding behavior the default.**
+<p align="center"><strong>Stop hoping the agent gets it right. Start making reliable coding behavior the default.</strong></p>
 
-[中文](./README.zh-CN.md) · [Deutsch](./README.de.md) · [Français](./README.fr.md) · [Español](./README.es.md) · [Italiano](./README.it.md) · [日本語](./README.ja.md) · [Русский](./README.ru.md)
+<p align="center">
+<a href="./README.zh-CN.md">中文</a> ·
+<a href="./README.de.md">Deutsch</a> ·
+<a href="./README.fr.md">Français</a> ·
+<a href="./README.es.md">Español</a> ·
+<a href="./README.it.md">Italiano</a> ·
+<a href="./README.ja.md">日本語</a> ·
+<a href="./README.ru.md">Русский</a>
+</p>
 
 ---
 
