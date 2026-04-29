@@ -1,7 +1,7 @@
 {
   "name": "openclaw-coding-skills",
   "title": "OpenClaw Coding Skills",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Production-grade coding workflow and specialist skills for OpenClaw agents.",
   "visibility": "public",
   "focus": [
